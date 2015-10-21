@@ -1,5 +1,5 @@
 {
-  "name": "KristopherWindsor/stanfordnlp",
+  "name": "kristopherwindsor/stanfordnlp",
   "type": "library",
   "autoload": {
     "psr-4": { "StanfordNlpClient\\": "src/" }
