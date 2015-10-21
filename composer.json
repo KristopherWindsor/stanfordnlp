@@ -1,0 +1,11 @@
+{
+  "name": "KristopherWindsor/stanfordnlp",
+  "type": "library",
+  "autoload": {
+    "psr-4": { "StanfordNlpClient\\": "src/" }
+  },
+  "require": {
+    "php": ">=5.5.0",
+    "guzzlehttp/guzzle": "6.0.2"
+  }
+}
